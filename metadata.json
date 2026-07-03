@@ -1,0 +1,6 @@
+{
+  "name": "Safia Bakery",
+  "description": "Sleek and premium customer application for Safia Bakery, including products catalog, active cart, and interactive loyalty rewards card.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
